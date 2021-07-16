@@ -10773,4 +10773,14 @@ textarea.form-control-lg {
   background: #2e2e2e;
 }
 
+.card-body p {
+  color: #c2c2c2;
+}
+
+.card-img,
+.card-img-top {
+  object-fit: cover;
+  aspect-ratio: 1/0.7;
+}
+
 /*# sourceMappingURL=/custom.18d3a4a7.css.map */
